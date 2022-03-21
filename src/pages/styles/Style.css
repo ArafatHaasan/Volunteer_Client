@@ -1,0 +1,16 @@
+header {
+  background-image: url("../assets//images/Department\ \(3\).jpg");
+  background-color: yellow;
+  background-blend-mode: overlay;
+  background-repeat: no-repeat;
+
+  background-size: cover;
+  height: 50vh;
+}
+
+.footer {
+  background-color: #ffff00;
+}
+tr {
+  margin: 20px 0px;
+}
